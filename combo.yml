@@ -1,0 +1,5 @@
+# Generated from the combos section of randomcontainers/doxygen package.yml by randomcontainers/ci.
+# Do not edit; change package.yml in randomcontainers/doxygen instead.
+name: doxygen-graphviz
+owner: doxygen
+with: [graphviz]
